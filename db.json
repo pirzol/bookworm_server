@@ -32,11 +32,23 @@
               "_attributes": {
                 "storyName": "חמי וערן קוראים"
               },
-              "reading": {
-                "_attributes": {
-                  "wordsPerMin": "120"
+              "reading": [
+                {
+                  "_attributes": {
+                    "wordsPerMin": "120"
+                  }
+                },
+                {
+                  "_attributes": {
+                    "wordsPerMin": "16"
+                  }
+                },
+                {
+                  "_attributes": {
+                    "wordsPerMin": "210"
+                  }
                 }
-              }
+              ]
             }
           }
         }
