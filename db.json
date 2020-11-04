@@ -14,5 +14,8 @@
     { "id": "16", "name": "האחים שלי", "content": "story_14.txt" },
     { "id": "17", "name": "מסיבת צעצועים לילית", "content": "story_15.txt" }
   ],
-  "users": [{ "id": "1", "readingData": [] }]
+  "users": [
+    { "id": "1", "readingData": [] },
+    { "id": "2", "readingData": [] }
+  ]
 }
