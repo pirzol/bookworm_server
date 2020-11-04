@@ -15,7 +15,33 @@
     { "id": "17", "name": "מסיבת צעצועים לילית", "content": "story_15.txt" }
   ],
   "users": [
-    { "id": "1", "readingData": [] },
+    {
+      "id": "1",
+      "readingData": {
+        "root": {
+          "student": {
+            "_attributes": {
+              "IBGColor": "6",
+              "storyBold": "false",
+              "storySize": "30",
+              "storyFont": "Arial",
+              "ItextAndHlColor": "6",
+              "studentName": "אורח"
+            },
+            "story": {
+              "_attributes": {
+                "storyName": "חמי וערן קוראים"
+              },
+              "reading": {
+                "_attributes": {
+                  "wordsPerMin": "120"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     { "id": "2", "readingData": [] }
   ]
 }
