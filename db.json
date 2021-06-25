@@ -1,5 +1,6 @@
 {
   "stories": [
+    { "id": "1", "name": "אפרוח קטן", "content": "story_1.txt" },
     { "id": "5", "name": "אפרוח קטן", "content": "story_3.txt" },
     { "id": "6", "name": "חמי וערן קוראים", "content": "story_4.txt" },
     { "id": "7", "name": "רן וגל בים", "content": "story_5.txt" },
